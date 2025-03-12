@@ -1,0 +1,32 @@
+body {
+  width: 600px;
+  margin-inline:auto;
+  font-family: fonts.gstatic,Verdana, Geneva, Tahoma, sans-serif; 
+  padding-left: 180px;
+
+} 
+
+
+hr {
+  color: rgb(228, 195, 10);
+  background-color: rgb(228, 195, 10);
+  border: 0;
+  height: 1px;
+  width: 100vh;
+}
+img {
+  text-align: center;
+  display: inline-block;
+  margin-inline: auto;
+  margin-block: auto;
+ 
+}
+p{style="text-align: center;
+   background-color: rgba(233, 233, 79, 0.445);
+    display: inline-flexbox; width: 100vh"
+
+    }
+main{
+  text-align: center;
+  
+}
